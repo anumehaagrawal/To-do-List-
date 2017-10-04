@@ -15,7 +15,7 @@ The following concepts were learnt :-
 
 **Step 3:** Click on **New Project** -> **Open** -> **Select the directory where the zip file has been downloaded**.
 
-Step 4: Click on the **directory(downloaded file)** and wait for **Android Studio** to build the gradle files.
+**Step 4:** Click on the **directory(downloaded file)** and wait for **Android Studio** to build the gradle files.
 
-Step 5: The android project will now work on **Android Studio**.
+**Step 5:** The android project will now work on **Android Studio**.
 
